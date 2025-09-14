@@ -1,5 +1,8 @@
 ## 안녕하세요. 우경찬입니다! 👋
 
+[![visitors](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fkyeoungchan%2Fhit-counter?color=blue&label=visitors&size=small)](https://myhits.vercel.app)
+
+<br>
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
